@@ -65,10 +65,12 @@ Daily coding problem
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -77,6 +79,7 @@ Daily coding problem
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |

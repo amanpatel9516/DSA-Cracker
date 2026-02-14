@@ -48,6 +48,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
+| [0799-champagne-tower](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3640-trionic-array-ii) |
 ## Sliding Window

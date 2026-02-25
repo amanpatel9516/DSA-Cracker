@@ -7,6 +7,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3634-minimum-removals-to-balance-array) |
@@ -67,6 +68,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0761-special-binary-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
@@ -111,6 +113,7 @@ Daily coding problem
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -129,6 +132,7 @@ Daily coding problem
 | [0693-binary-number-with-alternating-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |

@@ -77,6 +77,7 @@ Daily coding problem
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3719-longest-balanced-subarray-i) |
@@ -134,6 +135,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

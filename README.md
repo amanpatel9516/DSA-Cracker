@@ -8,6 +8,7 @@ Daily coding problem
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3634-minimum-removals-to-balance-array) |
@@ -33,6 +34,7 @@ Daily coding problem
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -169,4 +171,8 @@ Daily coding problem
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->

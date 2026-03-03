@@ -49,6 +49,7 @@ Daily coding problem
 | [0696-count-binary-substrings](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -150,6 +151,7 @@ Daily coding problem
 | ------- |
 | [0067-add-binary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Backtracking
 |  |
@@ -175,4 +177,8 @@ Daily coding problem
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->

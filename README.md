@@ -152,6 +152,7 @@ Daily coding problem
 | [0693-binary-number-with-alternating-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1680-concatenation-of-consecutive-binary-numbers) |

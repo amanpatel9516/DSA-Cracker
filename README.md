@@ -15,6 +15,7 @@ Daily coding problem
 | [1980-find-unique-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1980-find-unique-binary-string) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3634-minimum-removals-to-balance-array) |
@@ -142,6 +143,7 @@ Daily coding problem
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3714-longest-balanced-substring-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3721-longest-balanced-subarray-ii) |
@@ -214,6 +216,7 @@ Daily coding problem
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Recursion
 |  |
 | ------- |

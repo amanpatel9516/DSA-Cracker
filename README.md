@@ -33,6 +33,7 @@ Daily coding problem
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -76,6 +77,7 @@ Daily coding problem
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1980-find-unique-binary-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3714-longest-balanced-substring-ii) |
@@ -108,6 +110,7 @@ Daily coding problem
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |

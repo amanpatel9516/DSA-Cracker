@@ -21,6 +21,7 @@ Daily coding problem
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -94,6 +95,7 @@ Daily coding problem
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3640-trionic-array-ii) |
 ## Sliding Window
 |  |
@@ -245,6 +247,7 @@ Daily coding problem
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3643-flip-square-submatrix-vertically) |

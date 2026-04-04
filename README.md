@@ -15,6 +15,7 @@ Daily coding problem
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1980-find-unique-binary-string) |
+| [2573-find-the-string-with-lcp](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -57,6 +58,7 @@ Daily coding problem
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -81,6 +83,7 @@ Daily coding problem
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1980-find-unique-binary-string) |
+| [2573-find-the-string-with-lcp](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -95,6 +98,7 @@ Daily coding problem
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3640-trionic-array-ii) |
@@ -233,6 +237,7 @@ Daily coding problem
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
@@ -248,6 +253,7 @@ Daily coding problem
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |

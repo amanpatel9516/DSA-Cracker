@@ -6,6 +6,7 @@ Daily coding problem
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
 | [0874-walking-robot-simulation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0874-walking-robot-simulation) |
@@ -157,6 +158,7 @@ Daily coding problem
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
 | [0761-special-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -288,6 +290,7 @@ Daily coding problem
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
 | [0696-count-binary-substrings](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3643-flip-square-submatrix-vertically) |

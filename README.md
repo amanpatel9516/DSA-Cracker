@@ -293,6 +293,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
+| [0061-rotate-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3643-flip-square-submatrix-vertically) |
@@ -363,4 +364,8 @@ Daily coding problem
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

@@ -33,6 +33,7 @@ Daily coding problem
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -142,6 +143,7 @@ Daily coding problem
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |

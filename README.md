@@ -59,6 +59,7 @@ Daily coding problem
 | [3643-flip-square-submatrix-vertically](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3660-jump-game-ix](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3721-longest-balanced-subarray-ii) |
@@ -158,6 +159,7 @@ Daily coding problem
 | [3225-maximum-score-from-grid-operations](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3640-trionic-array-ii) |
+| [3660-jump-game-ix](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Sliding Window

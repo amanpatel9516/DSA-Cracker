@@ -14,6 +14,7 @@ Daily coding problem
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
 | [0874-walking-robot-simulation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -71,6 +72,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1980-find-unique-binary-string) |
 | [2784-check-if-array-is-good](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2784-check-if-array-is-good) |
@@ -329,6 +331,7 @@ Daily coding problem
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |

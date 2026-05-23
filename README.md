@@ -7,6 +7,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -226,6 +227,7 @@ Daily coding problem
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |

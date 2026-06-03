@@ -67,6 +67,7 @@ Daily coding problem
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3643-flip-square-submatrix-vertically) |
@@ -128,6 +129,7 @@ Daily coding problem
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -221,6 +223,7 @@ Daily coding problem
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
@@ -262,6 +265,7 @@ Daily coding problem
 | [3488-closest-equal-element-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Tree
 |  |
@@ -366,6 +370,7 @@ Daily coding problem
 | [1861-rotating-the-box](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3643-flip-square-submatrix-vertically) |
 ## Breadth-First Search
 |  |

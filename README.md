@@ -479,6 +479,7 @@ Daily coding problem
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Graph Theory
 |  |
@@ -509,6 +510,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0206-reverse-linked-list) |
 ## Number Theory
 |  |
 | ------- |

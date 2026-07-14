@@ -96,6 +96,7 @@ Daily coding problem
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0141-linked-list-cycle) |
 | [0874-walking-robot-simulation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1331-rank-transform-of-an-array) |
@@ -414,6 +415,7 @@ Daily coding problem
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -512,6 +514,7 @@ Daily coding problem
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0206-reverse-linked-list) |
 ## Number Theory
 |  |

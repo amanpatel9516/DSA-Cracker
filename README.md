@@ -127,6 +127,7 @@ Daily coding problem
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0234-palindrome-linked-list) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2751-robot-collisions) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -416,6 +417,7 @@ Daily coding problem
 | [0061-rotate-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -483,6 +485,7 @@ Daily coding problem
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Graph Theory
 |  |
@@ -516,6 +519,7 @@ Daily coding problem
 | [0061-rotate-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0234-palindrome-linked-list) |
 ## Number Theory
 |  |
 | ------- |

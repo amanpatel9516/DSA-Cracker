@@ -11,6 +11,7 @@ Daily coding problem
 | [0048-rotate-image](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
 | [0874-walking-robot-simulation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0874-walking-robot-simulation) |
@@ -231,6 +232,7 @@ Daily coding problem
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -241,6 +243,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1331-rank-transform-of-an-array) |
@@ -265,6 +268,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -538,4 +542,8 @@ Daily coding problem
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

@@ -97,6 +97,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0205-isomorphic-strings) |
 | [0874-walking-robot-simulation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1331-rank-transform-of-an-array) |
@@ -161,6 +162,7 @@ Daily coding problem
 | ------- |
 | [0067-add-binary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0657-robot-return-to-origin) |

@@ -369,6 +369,7 @@ Daily coding problem
 | ------- |
 | [0048-rotate-image](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0788-rotated-digits) |
@@ -390,6 +391,7 @@ Daily coding problem
 | ------- |
 | [0067-add-binary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -500,6 +502,7 @@ Daily coding problem
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Graph Theory

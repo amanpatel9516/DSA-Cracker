@@ -70,6 +70,7 @@ Daily coding problem
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3488-closest-equal-element-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -118,6 +119,7 @@ Daily coding problem
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3488-closest-equal-element-queries) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -311,6 +313,7 @@ Daily coding problem
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3488-closest-equal-element-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -343,6 +346,7 @@ Daily coding problem
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3714-longest-balanced-substring-ii) |
@@ -355,6 +359,7 @@ Daily coding problem
 | [1189-maximum-number-of-balloons](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2833-furthest-point-from-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -379,6 +384,7 @@ Daily coding problem
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -542,6 +548,7 @@ Daily coding problem
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Indexed Tree
@@ -560,4 +567,8 @@ Daily coding problem
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

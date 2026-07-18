@@ -287,6 +287,7 @@ Daily coding problem
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
@@ -294,6 +295,7 @@ Daily coding problem
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1306-jump-game-iii) |
@@ -323,6 +325,7 @@ Daily coding problem
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
@@ -454,6 +457,7 @@ Daily coding problem
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |

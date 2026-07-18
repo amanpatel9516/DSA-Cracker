@@ -289,6 +289,7 @@ Daily coding problem
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -297,6 +298,7 @@ Daily coding problem
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
@@ -327,6 +329,7 @@ Daily coding problem
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -458,6 +461,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |

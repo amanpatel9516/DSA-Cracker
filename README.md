@@ -288,6 +288,7 @@ Daily coding problem
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -297,6 +298,7 @@ Daily coding problem
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -310,6 +312,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0033-search-in-rotated-sorted-array) |
+| [0098-validate-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
@@ -328,6 +331,7 @@ Daily coding problem
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0111-minimum-depth-of-binary-tree) |

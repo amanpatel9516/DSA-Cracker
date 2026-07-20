@@ -136,6 +136,7 @@ Daily coding problem
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0234-palindrome-linked-list) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2751-robot-collisions) |
@@ -451,6 +452,7 @@ Daily coding problem
 | [0061-rotate-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0696-count-binary-substrings) |
@@ -521,6 +523,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0234-palindrome-linked-list) |
@@ -556,6 +559,7 @@ Daily coding problem
 | [0021-merge-two-sorted-lists](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0237-delete-node-in-a-linked-list) |

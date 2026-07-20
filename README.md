@@ -17,6 +17,7 @@ Daily coding problem
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
 | [0874-walking-robot-simulation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1331-rank-transform-of-an-array) |
@@ -427,6 +428,7 @@ Daily coding problem
 | [0067-add-binary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -496,6 +498,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1559-detect-cycles-in-2d-grid) |

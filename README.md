@@ -6,6 +6,7 @@ Daily coding problem
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0048-rotate-image) |
@@ -259,6 +260,7 @@ Daily coding problem
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0761-special-binary-string) |
@@ -464,6 +466,7 @@ Daily coding problem
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0125-valid-palindrome) |

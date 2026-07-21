@@ -75,6 +75,7 @@ Daily coding problem
 | [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3546-equal-sum-grid-partition-i) |
@@ -123,6 +124,7 @@ Daily coding problem
 | [3120-count-the-number-of-special-characters-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -334,6 +336,7 @@ Daily coding problem
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -501,6 +504,7 @@ Daily coding problem
 | [2573-find-the-string-with-lcp](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
@@ -549,6 +553,7 @@ Daily coding problem
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree

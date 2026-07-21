@@ -294,6 +294,7 @@ Daily coding problem
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -304,6 +305,7 @@ Daily coding problem
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
@@ -317,6 +319,7 @@ Daily coding problem
 | [0098-validate-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2540-minimum-common-value) |
@@ -337,6 +340,7 @@ Daily coding problem
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2196-create-binary-tree-from-descriptions) |

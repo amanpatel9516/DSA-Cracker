@@ -9,6 +9,7 @@ Daily coding problem
 | [0015-3sum](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -462,6 +463,7 @@ Daily coding problem
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |

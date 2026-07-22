@@ -80,6 +80,7 @@ Daily coding problem
 | [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3488-closest-equal-element-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -214,6 +215,7 @@ Daily coding problem
 | [3120-count-the-number-of-special-characters-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3714-longest-balanced-substring-ii) |
@@ -343,6 +345,7 @@ Daily coding problem
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -364,6 +367,7 @@ Daily coding problem
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3161-block-placement-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3721-longest-balanced-subarray-ii) |

@@ -8,6 +8,7 @@ Daily coding problem
 | ------- |
 | [0015-3sum](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0047-permutations-ii) |
@@ -490,6 +491,7 @@ Daily coding problem
 | ------- |
 | [0015-3sum](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0125-valid-palindrome) |

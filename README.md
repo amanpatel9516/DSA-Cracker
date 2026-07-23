@@ -475,6 +475,7 @@ Daily coding problem
 | ------- |
 | [0046-permutations](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0401-binary-watch) |

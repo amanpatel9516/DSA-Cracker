@@ -182,6 +182,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0344-reverse-string) |
@@ -222,6 +223,7 @@ Daily coding problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0091-decode-ways) |
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
 | [0788-rotated-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0788-rotated-digits) |

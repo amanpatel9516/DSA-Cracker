@@ -13,6 +13,7 @@ Daily coding problem
 | [0047-permutations-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -487,6 +488,7 @@ Daily coding problem
 | [0015-3sum](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0143-reorder-list) |

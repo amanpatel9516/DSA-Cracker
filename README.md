@@ -317,6 +317,7 @@ Daily coding problem
 | ------- |
 | [0190-reverse-bits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0215-kth-largest-element-in-an-array) |
+| [0372-super-pow](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0372-super-pow) |
 | [0761-special-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -439,6 +440,7 @@ Daily coding problem
 | [0050-powx-n](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0231-power-of-two) |
+| [0372-super-pow](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0372-super-pow) |
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0788-rotated-digits) |

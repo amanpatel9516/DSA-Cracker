@@ -213,6 +213,7 @@ Daily coding problem
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2437-number-of-valid-clock-times](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2437-number-of-valid-clock-times) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2573-find-the-string-with-lcp) |
@@ -416,6 +417,7 @@ Daily coding problem
 ## Enumeration
 |  |
 | ------- |
+| [2437-number-of-valid-clock-times](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2437-number-of-valid-clock-times) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3514-number-of-unique-xor-triplets-ii) |

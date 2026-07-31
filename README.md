@@ -24,6 +24,7 @@ Daily coding problem
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
 | [0874-walking-robot-simulation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0874-walking-robot-simulation) |
+| [0949-largest-time-for-given-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0949-largest-time-for-given-digits) |
 | [1260-shift-2d-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1306-jump-game-iii) |
@@ -199,6 +200,7 @@ Daily coding problem
 | [0696-count-binary-substrings](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0796-rotate-string) |
+| [0949-largest-time-for-given-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0949-largest-time-for-given-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -417,6 +419,7 @@ Daily coding problem
 ## Enumeration
 |  |
 | ------- |
+| [0949-largest-time-for-given-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0949-largest-time-for-given-digits) |
 | [2437-number-of-valid-clock-times](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2437-number-of-valid-clock-times) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -501,6 +504,7 @@ Daily coding problem
 | [0078-subsets](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0401-binary-watch) |
+| [0949-largest-time-for-given-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0949-largest-time-for-given-digits) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1980-find-unique-binary-string) |
 ## Two Pointers

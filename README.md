@@ -436,6 +436,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
@@ -599,6 +600,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0231-power-of-two) |

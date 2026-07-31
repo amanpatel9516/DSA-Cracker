@@ -119,6 +119,7 @@ Daily coding problem
 | [0205-isomorphic-strings](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0219-contains-duplicate-ii) |
 | [0874-walking-robot-simulation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0874-walking-robot-simulation) |
+| [1096-brace-expansion-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1345-jump-game-iv) |
@@ -154,6 +155,7 @@ Daily coding problem
 | [0143-reorder-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1096-brace-expansion-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2751-robot-collisions) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -202,6 +204,7 @@ Daily coding problem
 | [0796-rotate-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0796-rotate-string) |
 | [0949-largest-time-for-given-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0949-largest-time-for-given-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -286,6 +289,7 @@ Daily coding problem
 | [0047-permutations-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0761-special-binary-string) |
+| [1096-brace-expansion-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1340-jump-game-v) |
@@ -505,6 +509,7 @@ Daily coding problem
 | [0090-subsets-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0401-binary-watch) |
 | [0949-largest-time-for-given-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0949-largest-time-for-given-digits) |
+| [1096-brace-expansion-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1980-find-unique-binary-string) |
 ## Two Pointers
@@ -536,6 +541,7 @@ Daily coding problem
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |

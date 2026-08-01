@@ -23,6 +23,7 @@ Daily coding problem
 | [0228-summary-ranges](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0228-summary-ranges) |
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0874-walking-robot-simulation) |
 | [0949-largest-time-for-given-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0949-largest-time-for-given-digits) |
 | [1260-shift-2d-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1260-shift-2d-grid) |
@@ -242,6 +243,7 @@ Daily coding problem
 | [0091-decode-ways](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0091-decode-ways) |
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -442,6 +444,7 @@ Daily coding problem
 | [0231-power-of-two](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0231-power-of-two) |
 | [0372-super-pow](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0372-super-pow) |
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0788-rotated-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -607,6 +610,7 @@ Daily coding problem
 | [0206-reverse-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Graph Theory
 |  |
@@ -673,4 +677,8 @@ Daily coding problem
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3312-sorted-gcd-pair-queries) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

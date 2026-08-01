@@ -24,6 +24,7 @@ Daily coding problem
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0874-walking-robot-simulation) |
 | [0949-largest-time-for-given-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0949-largest-time-for-given-digits) |
 | [1260-shift-2d-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1260-shift-2d-grid) |
@@ -292,6 +293,7 @@ Daily coding problem
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0215-kth-largest-element-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0761-special-binary-string) |
 | [1096-brace-expansion-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1288-remove-covered-intervals) |
@@ -448,6 +450,7 @@ Daily coding problem
 | [0372-super-pow](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0372-super-pow) |
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0788-rotated-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1680-concatenation-of-consecutive-binary-numbers) |

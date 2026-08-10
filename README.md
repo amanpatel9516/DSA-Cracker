@@ -260,6 +260,7 @@ Daily coding problem
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1871-jump-game-vii) |
@@ -469,6 +470,7 @@ Daily coding problem
 | [0788-rotated-digits](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1510-stone-game-iv) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -712,12 +714,23 @@ Daily coding problem
 | [0486-predict-the-winner](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

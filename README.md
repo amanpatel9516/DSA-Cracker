@@ -22,6 +22,7 @@ Daily coding problem
 | [0219-contains-duplicate-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0228-summary-ranges) |
 | [0396-rotate-function](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0414-third-maximum-number) |
 | [0474-ones-and-zeroes](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0628-maximum-product-of-three-numbers) |
@@ -310,6 +311,7 @@ Daily coding problem
 | [0016-3sum-closest](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0761-special-binary-string) |
 | [1096-brace-expansion-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1096-brace-expansion-ii) |

@@ -41,6 +41,7 @@ Daily coding problem
 | [1559-detect-cycles-in-2d-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -130,6 +131,7 @@ Daily coding problem
 | [1189-maximum-number-of-balloons](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1345-jump-game-iv) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -286,6 +288,7 @@ Daily coding problem
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0219-contains-duplicate-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -382,6 +385,7 @@ Daily coding problem
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1382-balance-a-binary-search-tree) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -420,6 +424,7 @@ Daily coding problem
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/amanpatel9516/DSA-Cracker/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
